@@ -2,7 +2,7 @@
 
 **Stock Backtesting Analysis**
 
-**Introduction:**
+**Introduction:***
 This detailed report provides an extensive analysis of a stock trading strategy's backtesting process. We walk through the steps involved in designing the strategy, conducting backtests, evaluating performance metrics, stress testing, and ensuring a robust and reliable trading approach.
 
 **Step 1: Strategy Design:**
